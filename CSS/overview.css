@@ -1,0 +1,88 @@
+#button1{
+  background-color: white;
+  /* margin: 25px 40px 0px 60px; */
+  /* margin-top: -100px;
+  margin-right: 300px; */
+}
+/* body{
+  margin-left: 20px;
+  color: #5C3D2E;
+  background-color: #CDF2CA;
+} */
+.resume{
+  color: #C36839; /*6D9886*/
+}
+  
+.resume:hover{
+  color: #93B5C6; /*#edca85*/
+  text-decoration: underline;
+}
+
+/* body{
+  padding:10px 3% 10% 3%;
+  text-align:center;
+} */
+    
+/* h1{
+  color: #32a852;
+} */
+
+
+
+.index-heading{
+  margin-left: 140px;
+  font-size: 55px;
+}
+
+p{
+  font-size: 22px;
+}
+
+/* h5{
+  font-size: 35px;
+} */
+
+.head5{
+  margin-top: -40px;
+}
+
+/* .social{
+  margin-left: -200px;
+  margin-bottom: 25px;
+} */
+
+.twitter{
+  margin-top: -30px;
+  margin-right: 30px;
+  /*margin-left: 100px;
+  margin-bottom: 10px; */
+text-align: right;
+}
+
+.facebook{
+  margin-top: 15px;
+  text-align: left;
+  /* margin-top: -20px;
+  margin-bottom: 10px; */
+}
+
+.github{
+  text-align: left;
+  /* margin-left: 180px;
+  margin-top: -40px; */
+}
+.linkedin{
+  text-align: right;
+  margin-top: -30px;
+  margin-right: 30px;
+  /* margin-left: 100px;
+  margin-top: -30px; */
+}
+
+hr{
+  background-color: black;
+  border-top: dotted rgb(255, 255, 255) 12px;
+  border-bottom: none;
+  width: 15%;
+  margin: 100px auto;
+}

@@ -1,0 +1,97 @@
+.about-header, .contact-header {
+  color: white;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.index-header, .work-header {
+  color: white;
+  margin-left: 50px;
+  text-align: center;
+}
+
+.index-heading2 {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.index-heading {
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.about-heading {
+  color: white;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.para {
+  font-family: aktiv-grotesk;
+  color: white;
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+.about-body, .contact-body, .work-body, .index-body {
+  background-color: black;
+}
+.nav{
+  background-color:transparent;
+}
+
+.about-education {
+  margin-left: 40px;
+  margin-top: 13.4px;
+}
+
+hr{
+  border: dotted white 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+/* ******************************NAVBAR****************************** */
+#blink {
+  margin-right: 5px;
+  margin-top: 12px;
+}
+
+.nav-link:hover {
+  color: #edca85;
+  /* border-bottom: 4x solid #f093b0); */
+  text-decoration: underline;
+}
+
+.nav-link {
+  font-size: 20px;
+  color: white;
+  /* margin: 0 0 5px 20px; */
+}
+
+.nav-item1{                                                                                                                                                                                                
+  margin-top: -38px;                                                                                                                                                                                                
+  margin-right: 50px;                                                                                                                                                                                                
+}                                                                                                                                                                                                
+                                                                                                                                                                                                
+.nav-item2{                                                                                                                                                                                                
+  margin-top: -38px;                                                                                                                                                                                                
+  margin-right: 25px;                                                                                                                                                                                                
+}                                                                                                                                                                                                
+
+.navvv {
+  margin-left: 300px;
+}
+
+h4, .about-header, .contact-header, .index-header, .work-header{
+  
+  color: #fff;
+  background-image: linear-gradient(to right top, #d16ba5, #e67696, #f38688, #f7997f, #f6ae7c, #edbd7a, #e1cc80, #d2da8c, #b9e59c, #9deeb4, #7ff5d1, #5ffbf1);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
